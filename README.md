@@ -14,18 +14,6 @@
 ---
 
 <p align="center">
-  <a href="asset/Finals Lab Task 4 - Quiambao_AronDaniel_B.pdf" target="_blank">
-    <button style="
-      background-color:#2ea44f;
-      border:none;
-      color:white;
-      padding:12px 25px;
-      text-align:center;
-      font-size:16px;
-      border-radius:8px;
-      cursor:pointer;
-    ">
-      📄 CLICK ME TO VIEW FILE!
-    </button>
-  </a>
+  <iframe src="asset/Finals Lab Task 1 - Quiambao_AronDaniel_B.pdf" width="100%" height="600px" style="border:none;">
+  </iframe>
 </p>
